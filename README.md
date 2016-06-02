@@ -1,4 +1,6 @@
 # hello-world
 hello git hub team... learn mode on!
-hi
-guten tag
+new to githug.... 
+forgot everything i ever new about programming...
+seeing what the "buzz" is about regarding github/agile/devops/blahblah (i hope there isn't a blahblah yet)
+
